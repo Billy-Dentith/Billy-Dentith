@@ -40,5 +40,5 @@ Built with React Native, Expo, JavaScript, MongoDB and Firebase. Making use of G
 [Front-end](https://github.com/Billy-Dentith/DayPlanner-FE)
 
 #### 🍽️ Resturant App
-Currently working on a restaurant web app that allows users to view menus & products, add items to their cart and view their orders. The app also allows restaurant admins to log on to view and amend order statuses. <br>
-Built with Next.js, JacaScript, PSQL, NextAuth.js, Tailwind CSS. 
+Currently working on a restaurant web app that allows users to view menus & products, add items to their cart and view their orders. The app also allows restaurant admins to log in to view and amend current order statuses. <br>
+Built with Next.js, JavaScript, PSQL, NextAuth.js and Tailwind CSS. 
