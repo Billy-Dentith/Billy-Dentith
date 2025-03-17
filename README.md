@@ -5,7 +5,7 @@ A Junior Software Developer located in London, UK.
 - 🌱 I’m currently working on various projects to apply my software development skills
 
 
-### Tech Stack:
+## Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,21 +24,28 @@ A Junior Software Developer located in London, UK.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
-### My Projects:
-#### 📰 NC News 
+## My Projects:
+### 📰 NC News 
 A full-stack news platform where you can read, rate and comment on news articles. <br>
 Built with React, JavaScript, Express, HTML, CSS and PostgreSQL. 
 
 [Back-end](https://github.com/Billy-Dentith/nc-news-backend) <br>
 [Front-end](https://github.com/Billy-Dentith/nc-news-frontend)
 
-#### 📋 Plan Ahead 
+### 📋 Plan Ahead 
 A mobile app for planning your day trip in a new city. Users can view local sights and plan a route based on their chosen interests and current location. <br>
 Built with React Native, Expo, JavaScript, MongoDB and Firebase. Making use of Google Maps API and OpenRouteService API. 
 
 [Back-end](https://github.com/OniUnderscore/DayPlanner) <br>
 [Front-end](https://github.com/Billy-Dentith/DayPlanner-FE)
 
-#### 🍽️ Resturant App
+### 🍽️ Restaurant App
 Currently working on a restaurant web app that allows users to view menus & products, add items to their cart and view their orders. The app also allows restaurant admins to log in to view and amend current order statuses. <br>
 Built with Next.js, JavaScript, PSQL, NextAuth.js and Tailwind CSS. 
+
+### 📅 Event Nest
+A full-stack event management platform designed to connect users with events in their area. The platform allows users to discover, sign up for, and manage events easily. Users can also add their events to their Google calender seamlessly. <br>
+Built with React, JavaScript, Express, MongoDB, Mongoose, Firebase and CSS. 
+
+[Repo](https://github.com/Billy-Dentith/events-platform)
+
