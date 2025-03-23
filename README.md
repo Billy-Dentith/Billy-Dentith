@@ -30,7 +30,8 @@ A full-stack news platform where you can read, rate and comment on news articles
 Built with React, JavaScript, Express, HTML, CSS and PostgreSQL. 
 
 [Back-end](https://github.com/Billy-Dentith/nc-news-backend) <br>
-[Front-end](https://github.com/Billy-Dentith/nc-news-frontend)
+[Front-end](https://github.com/Billy-Dentith/nc-news-frontend) <br>
+[Deployed Site](https://bd-nc-news.netlify.app/)
 
 ### 📋 Plan Ahead 
 A mobile app for planning your day trip in a new city. Users can view local sights and plan a route based on their chosen interests and current location. <br>
@@ -43,9 +44,13 @@ Built with React Native, Expo, JavaScript, MongoDB and Firebase. Making use of G
 Currently working on a restaurant web app that allows users to view menus & products, add items to their cart and view their orders. The app also allows restaurant admins to log in to view and amend current order statuses. <br>
 Built with Next.js, JavaScript, PSQL, NextAuth.js and Tailwind CSS. 
 
+[Back-end](https://github.com/Billy-Dentith/restaurant-app-be.git) <br>
+[Front-end](https://github.com/Billy-Dentith/restaurant-app.git)
+
 ### 📅 Event Nest
 A full-stack event management platform designed to connect users with events in their area. The platform allows users to discover, sign up for, and manage events easily. Users can also add their events to their Google calender seamlessly. <br>
 Built with React, JavaScript, Express, MongoDB, Mongoose, Firebase and CSS. 
 
-[Repo](https://github.com/Billy-Dentith/events-platform)
+[Repository](https://github.com/Billy-Dentith/events-platform) <br>
+[Deployed Site](https://event-nest-bd.netlify.app/)
 
